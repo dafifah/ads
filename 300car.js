@@ -5,4 +5,4 @@
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/aaca6621679abebd730f08fcbe796a9d/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformanceformat.com/aaca6621679abebd730f08fcbe796a9d/invoke.js"></scr' + 'ipt>');
